@@ -42,11 +42,11 @@ git clone https://github.com/your-username/Uber-Rides-Prediction.git
 cd Uber-Rides-Prediction
 ```
 ### 2. Create a virtual environment
-#### Windows
+####     Windows
 python -m venv venv
 venv\Scripts\activate
 
-#### Mac/Linux
+####     Mac/Linux
 python3 -m venv venv
 source venv/bin/activate
 
