@@ -40,7 +40,7 @@ Uber-Rides-Prediction/
 ```bash
 git clone https://github.com/your-username/Uber-Rides-Prediction.git
 cd Uber-Rides-Prediction
-
+```
 ### 2. Create a virtual environment
 # Windows
 python -m venv venv
